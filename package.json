@@ -1,0 +1,23 @@
+{
+  "name": "exerciciom11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p0kaMoretti/ExercicioM11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p0kaMoretti/ExercicioM11/issues"
+  },
+  "homepage": "https://github.com/p0kaMoretti/ExercicioM11#readme",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}
